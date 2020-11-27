@@ -3,4 +3,5 @@ Allows you to upload your wands to a site your viewers can go check while your i
 
 # Special thanks
 Pyry for making juicy pollws
+
 Evaisa for some helps
