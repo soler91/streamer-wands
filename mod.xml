@@ -1,0 +1,12 @@
+<Mod
+	name="Streamer Wands"
+	description="Show your thick wand to your viewers under the table."
+	request_no_api_restrictions="1" 
+> 
+</Mod>
+
+<!-- 
+	If a mod requires access to the full lua api e.g. os.* io.* it has to request acesss via 'request_no_api_restrictions="1"'.
+	It is recommended that other options are explored first, as we may completely disable those APIs in the future.
+	By default mods have access to the table, string, math and bit libraries and to the APIs exposed by the game.
+ -->
